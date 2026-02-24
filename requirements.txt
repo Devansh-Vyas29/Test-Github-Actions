@@ -1,0 +1,24 @@
+# Core ML stack
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# Transformers and tokenizers
+transformers==4.36.2
+tokenizers==0.15.0
+
+# Test generation and coverage tools
+pytest==7.4.4
+coverage==7.3.2
+
+# Code parsing and AST tools
+asttokens==2.4.1
+astor==0.8.1
+
+# Utilities
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.2
+
+# Optional CLI tool
+click==8.1.7
